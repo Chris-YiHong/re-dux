@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ReDux</string>
+    <string name="first_slide_title">Geolocation technology</string>
+    <string name="second_slide_title">Play ads to passenger</string>
+    <string name="thrid_slide_title">Earn from the viewed ads</string>
+    <string name="first_desc_title">Geolocation advertising uses of location technologies such as GPS or IP addresses to identify and track whereabouts of connected electronic devices.</string>
+    <string name="second_desc_title">Advertisement display to passenger based on their location and the time </string>
+    <string name="thrid_desc_title">Earn extra income based on how many times the advertisement have displayed to passengers</string>
+    <string name="playads">Play Ads</string>
+    <string name="stopads">Stop Ads</string>
+    <string name="adsplayedminutes">Ads Played Minutes</string>
+    <string name="welcomeback">Welcome back,</string>
+    <string name="mr">Mr. Alvin</string>
+    <string name="logout">Logout</string>
+    <string name="background_logo">logo</string>
+    <string name="background_big">big</string>
+    <string name="member_level">Member Level:</string>
+    <string name="rank">Gold</string>
+    <string name="newcredentials">Your Identity Has Been Verified! Set Your New Password </string>
+    <string name="forgetpasswordmsg">Provide Your Account Phone Number For Which You want To Reset Your Password</string>
+    <string name="seeyousoon">See You Soon</string>
+    <string name="logoutsuccessfully">Logout Successfully.</string>
+    <string name="welcome">Welcome</string>
+    <string name="thankyou">Thank you for joining us. Please login with your info on login page.</string>
+    <string name="login">Login</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
